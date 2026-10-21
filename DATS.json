@@ -52,6 +52,7 @@
         }
     ],
     "version": "2022-06-10T13:50:45.349495+00:00",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -62,7 +63,7 @@
     "licenses": [
         {
             "name": {
-                "id": "cc-zero"
+                "id": "CC0"
             }
         }
     ],
@@ -81,7 +82,12 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://zenodo.org/record/6624795"
+                "landingPage": "https://zenodo.org/record/6624795", 
+                "authorizations": [
+                      {
+                        "value": "registered"
+                      }
+                ]
             },
             "formats": [
                 "N/A"
@@ -133,7 +139,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "external"
                 }
             ]
         }
