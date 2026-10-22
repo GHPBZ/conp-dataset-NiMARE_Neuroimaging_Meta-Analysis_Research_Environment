@@ -83,7 +83,7 @@
                 "landingPage": "https://zenodo.org/record/6624795", 
                 "authorizations": [
                       {
-                        "value": "registered"
+                        "value": "public"
                       }
                 ]
             },
